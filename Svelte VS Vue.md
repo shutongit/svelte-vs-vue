@@ -18,11 +18,11 @@ Svelte: https://svelte.dev/
 
 从下图可以看到目前vue的下载量存在量级的差别
 
-![image-20230904105900536](/Users/shutong/Documents/文档/TyporaImage/image-20230904105900536-3796345.png)
+![image-20230904105900536-3796345](/Users/shutong/Documents/文档/TyporaImage/image-20230904105900536-3796345-3816084.png)
+
+![image-20230904110012023](/Users/shutong/Documents/文档/TyporaImage/image-20230904110012023-3816102.png)
 
 
-
-![image-20230904110012023](/Users/shutong/Documents/文档/TyporaImage/image-20230904110012023-3796413.png)
 
 
 
@@ -50,19 +50,21 @@ Svelte: https://svelte.dev/
 
 - Vue
 
-![image-20230904133034678](/Users/shutong/Documents/文档/TyporaImage/image-20230904133034678-3805436.png)
+![image-20230904133034678](/Users/shutong/Documents/文档/TyporaImage/image-20230904133034678-3816189.png)
 
-![image-20230904133115607](/Users/shutong/Documents/文档/TyporaImage/image-20230904133115607-3805476-3805479-3805479.png)
-
-
+![image-20230904133115607-3805476-3805479-3805479](/Users/shutong/Documents/文档/TyporaImage/image-20230904133115607-3805476-3805479-3805479-3816196.png)
 
 
 
 - Svelte
 
-![image-20230904133225157](/Users/shutong/Documents/文档/TyporaImage/image-20230904133225157.png)
+![image-20230904133225157](/Users/shutong/Documents/文档/TyporaImage/image-20230904133225157-3816149.png)
 
-![image-20230904140828566](/Users/shutong/Documents/文档/TyporaImage/image-20230904140828566.png)
+![image-20230904140828566](/Users/shutong/Documents/文档/TyporaImage/image-20230904140828566-3816168.png)
+
+
+
+
 
 > svelte打包还有待研究
 
